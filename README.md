@@ -1,8 +1,7 @@
-Lambda-Engine-
+Práctica de Laboratorio #11: Un Lambda-Engine para las Expresiones Regulares
 ==============
 
 Práctica de Laboratorio #11: Un Lambda-Engine para las Expresiones Regulares
-==============
 
 Véase Práctica: Un Motor para las Expresiones Regulares en Pocas Líneas:
 
